@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase Practice</string>
+    <string name="error">Error</string>
+    <string name="message">Message</string>
+</resources>

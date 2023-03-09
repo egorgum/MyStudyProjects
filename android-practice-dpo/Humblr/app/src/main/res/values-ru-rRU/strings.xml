@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">Хамблер</string>
+        <string name="title_home">Дом</string>
+        <string name="title_saved">Созраненные</string>
+        <string name="title_profile">Профиль</string>
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="next">Далее</string>
+        <string name="finish">Закончить</string>
+        <string name="first_recommendation">Добро пожаловать в Хамблер</string>
+        <string name="second_recommendation">SubHumblr</string>
+        <string name="third_recommendation">Делись и сохраняй</string>
+        <string name="first_description">Здесь собраны сообщества по всевозможным интереса</string>
+        <string name="second_description">Ты можешь найти новые сабы по интересам и посмотреть сабы, на которые подписан</string>
+        <string name="third_description">Вкладка избранное хранит закладки с комментариями и сабами. В профиле ты найдёшь информацию о себе</string>
+        <string name="text_auth">Найди единомышленников с Хамблер</string>
+        <string name="sign_up_log_in">Зарегестрироваться / Войти</string>
+        <string name="success_auth">Вход выполнен</string>
+        <string name="newSort">Новые</string>
+        <string name="search">Поиск</string>
+        <string name="popular">Популярные</string>
+        <string name="search_result">Результаты поиска</string>
+        <string name="something_went_wrong">Что-то пошло не так</string>
+        <string name="comments">Комментарии</string>
+        <string name="share_it_with_your_friends">Поделись с друзьями</string>
+        <string name="share_using">Поделиться</string>
+        <string name="gold">Золотой</string>
+        <string name="not_gold">Незолотой</string>
+        <string name="karma">Карма:</string>
+        <string name="add_to_friends">Добавить в друзья</string>
+        <string name="delete_a_friend">Удалить из друзей</string>
+        <string name="friends">Друзья</string>
+        <string name="exit">Выйти</string>
+        <string name="yes">Да</string>
+        <string name="no">Нет</string>
+        <string name="message">Вы уверены, что хотите выйти из аккаунта?</string>
+        <string name="posts">Посты</string>
+
+</resources>

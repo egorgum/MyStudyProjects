@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="inp_timeZone">Введите часвой ID в формате Europe/Moscow</string>
+    <string name="save">save</string>
+    <string name="hh_mm">Введите время в милиисекундах</string>
+    <string name="lat">Введите широту</string>
+    <string name="lon">Введите долготу</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">REST</string>
+    <string name="restart">Перезагрузка</string>
+    <string name="Error">Ошибка</string>
+</resources>

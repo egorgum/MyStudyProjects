@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">QuizAPP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="start">Start</string>
+    <string name="back">Back</string>
+    <string name="Push">Send</string>
+
+    <string name="q1">Please, Rate Android course?</string>
+    <string name="_5">A++</string>
+    <string name="_4">B</string>
+    <string name="_3">C</string>
+    <string name="_2">F</string>
+
+    <string name="q2">Do you want to recommend us to your friends?</string>
+    <string name="q21">Sure</string>
+    <string name="q22">Already recommend</string>
+    <string name="q23">I do not know</string>
+    <string name="q24">No</string>
+
+    <string name="q3">Did you use the course feedback?</string>
+    <string name="q31">Yes</string>
+    <string name="q32">Not yet, but now I will use it</string>
+    <string name="q33">No, it has not happened yet</string>
+    <string name="q34">No, and I won\'t</string>
+
+    <string name="restart">Restart</string>
+    <string name="select_date">Select a date</string>
+    <string name="date_dialog_title">Choose your date of birth</string>
+
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Practice_11</string>
+    <string name="data">Введите данные</string>
+    <string name="Save">Сохранить</string>
+    <string name="Clear">Очистить</string>
+</resources>
