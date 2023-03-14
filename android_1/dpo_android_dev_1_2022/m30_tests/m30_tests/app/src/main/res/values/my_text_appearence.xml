@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.MaterialComponents.Body1.My">
+    </style>
+
+    <style name="TextAppearance.MaterialComponents.Body1.My.Small">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="TextAppearance.MaterialComponents.Body1.My.Medium">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="TextAppearance.MaterialComponents.Body1.My.Big">
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="TextAppearance.MaterialComponents.Body1.My.Huge">
+        <item name="android:textSize">40sp</item>
+    </style>
+</resources>
