@@ -1,1 +1,0 @@
-OOP practice. Part 1

@@ -1,1 +1,0 @@
-class NoAmmoException: Throwable(message = "No ammo",)

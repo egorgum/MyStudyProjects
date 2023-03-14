@@ -1,1 +1,0 @@
-class TooHighPressure: Throwable(message = "The pressure is too high")

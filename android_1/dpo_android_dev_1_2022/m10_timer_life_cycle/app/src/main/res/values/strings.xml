@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Homework_4</string>
-    <string name="logo">Таймер</string>
-    <string name="time">Выбери время</string>
-    <string name="start">Старт</string>
-    <string name="restart">Отмена</string>
-</resources>

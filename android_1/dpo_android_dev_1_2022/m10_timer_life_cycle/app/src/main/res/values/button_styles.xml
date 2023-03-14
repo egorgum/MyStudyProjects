@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="button_restart" parent="TextAppearance.AppCompat.Button">
-        <item name="android:textSize">15sp</item>
-        <item name="android:textColor">@color/purple_700</item>
-        <item name="android:typeface">monospace</item>
-        <item name="android:backgroundTint">#008000</item>
-    </style>
-</resources>
