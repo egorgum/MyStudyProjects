@@ -1,0 +1,1 @@
+class IncorrectPressure: Throwable(message = "Invalid pressure value")

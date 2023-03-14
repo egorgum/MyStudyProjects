@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice_18</string>
+    <string name="takePhoto">Сделать фото</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="openCamera">Открыть камеру</string>
+    <string name="clear">Очистить</string>
+</resources>

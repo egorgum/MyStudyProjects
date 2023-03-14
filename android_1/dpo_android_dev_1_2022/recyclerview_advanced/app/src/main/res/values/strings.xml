@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recycler_New</string>
+    <string name="location">Last known location:</string>
+    <string name="restart">Перезагрузить</string>
+</resources>

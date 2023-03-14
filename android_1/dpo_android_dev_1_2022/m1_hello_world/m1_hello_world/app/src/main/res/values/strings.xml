@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework_2</string>
+    <string name="restart_name">Restart</string>
+    <string name="all">Все места свободны</string>
+    <string name="normal">Осталось мест: </string>
+    <string name="zero">Пассажиров слишком много</string>
+
+</resources>

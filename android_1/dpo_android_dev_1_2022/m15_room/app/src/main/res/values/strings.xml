@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ROOM</string>
+    <string name="input">Введите слово</string>
+    <string name="add">Добавить</string>
+    <string name="clear">Очистить</string>
+</resources>

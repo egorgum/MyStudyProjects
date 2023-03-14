@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".QuizFragment"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/firstQuestion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|center"
+            android:layout_marginTop="16dp"
+            android:text="@string/q1" />
+
+
+        <RadioGroup
+            android:id="@+id/firstGroup"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RadioButton
+                android:id="@+id/firstGroupOne"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:text="@string/_2"
+                android:textSize="11sp" />
+
+            <RadioButton
+                android:id="@+id/firstGroupTwo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:text="@string/_3"
+                android:textSize="11sp" />
+
+            <RadioButton
+                android:id="@+id/firstGroupThree"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:text="@string/_4"
+                android:textSize="11sp" />
+
+            <RadioButton
+                android:id="@+id/firstGroupFour"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:text="@string/_5"
+                android:textSize="11sp" />
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/secondQuestion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|center"
+            android:layout_marginTop="16dp"
+            android:text="@string/q2" />
+
+        <RadioGroup
+            android:id="@+id/secondGroup"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <RadioButton
+                android:id="@+id/secondGroupOne"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:textSize="11sp"
+                android:text="@string/q21"/>
+            <RadioButton
+                android:id="@+id/secondGroupTwo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:text="@string/q22"
+                android:textSize="11sp"/>
+            <RadioButton
+                android:id="@+id/secondGroupThree"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:text="@string/q23"
+                android:textSize="11sp"/>
+            <RadioButton
+                android:id="@+id/secondGroupFour"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:text="@string/q24"
+                android:textSize="11sp"/>
+        </RadioGroup>
+
+
+
+        <TextView
+            android:id="@+id/thirdQuestion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|center"
+            android:layout_margin="16dp"
+            android:text="@string/q3" />
+
+        <RadioGroup
+            android:id="@+id/thirdGroup"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <RadioButton
+                android:id="@+id/thirdGroupOne"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:textSize="11sp"
+                android:text="@string/q31"/>
+            <RadioButton
+                android:id="@+id/thirdGroupTwo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:text="@string/q32"
+                android:textSize="11sp"/>
+            <RadioButton
+                android:id="@+id/thirdGroupThree"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:text="@string/q33"
+                android:textSize="11sp"/>
+            <RadioButton
+                android:id="@+id/thirdGroupFour"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:text="@string/q34"
+                android:textSize="11sp"/>
+        </RadioGroup>
+
+        <Button
+            android:layout_margin="16dp"
+            android:id="@+id/buttonPush"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Push"
+            android:backgroundTint="@color/design_default_color_secondary_variant"/>
+
+        <Button
+            android:layout_margin="16dp"
+            android:id="@+id/buttonBack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/back"
+            android:backgroundTint="@color/design_default_color_primary_dark" />
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

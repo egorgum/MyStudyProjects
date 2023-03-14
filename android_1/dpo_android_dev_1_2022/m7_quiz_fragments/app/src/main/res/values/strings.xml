@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">QuizAPP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="back">Назад</string>
+    <string name="Push">Отправить</string>
+    <string name="_5">на 5</string>
+    <string name="_4">на 4</string>
+    <string name="_3">на 3</string>
+    <string name="q1">Как тебе наш Android курс?</string>
+    <string name="_2">на 2</string>
+    <string name="q2">Порекомендуешь его друзьям?</string>
+    <string name="q21">Обзательно</string>
+    <string name="q22">Уже порекомендовал</string>
+    <string name="q23">Посмотрим, что будет дальше</string>
+    <string name="q24">Нет</string>
+    <string name="q3">Пользовался ли ты обратной связью?</string>
+    <string name="q31">Да</string>
+    <string name="q32">Еще нет, но сейчас воспользуюсь</string>
+    <string name="q33">Нет, еще не приходилось</string>
+    <string name="q34">Нет, и не буду</string>
+    <string name="restart">Restart</string>
+</resources>

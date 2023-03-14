@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Humblr</string>
+    <string name="title_home">Home</string>
+    <string name="title_saved">Saved</string>
+    <string name="title_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="first_recommendation">Welcome to Humblr</string>
+    <string name="second_recommendation">SubHumblr</string>
+    <string name="third_recommendation">Share and save</string>
+    <string name="first_description">Communities of all kinds of interests are gathered here</string>
+    <string name="second_description">You can find new subs and watch the subs you are subscribed to</string>
+    <string name="third_description">The favorites tab stores bookmarks with comments and subs. In the profile you will find information about yourself</string>
+    <string name="text_auth">Find like-minded people using Humblr</string>
+    <string name="sign_up_log_in">Sign up / Log in</string>
+    <string name="success_auth">Login completed</string>
+    <string name="newSort">New</string>
+    <string name="search">Search</string>
+    <string name="popular">Popular</string>
+    <string name="search_result">Search results</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="comments">Comments</string>
+    <string name="share_it_with_your_friends">Share it with your friends</string>
+    <string name="share_using">Share using</string>
+    <string name="gold">Gold</string>
+    <string name="not_gold">Not gold</string>
+    <string name="karma">Karma:</string>
+    <string name="add_to_friends">add to friends</string>
+    <string name="delete_a_friend">Delete a friend</string>
+    <string name="friends">Friends</string>
+    <string name="exit">Exit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="message">Are you sure you want to log out of your account?</string>
+    <string name="posts">Posts</string>
+</resources>

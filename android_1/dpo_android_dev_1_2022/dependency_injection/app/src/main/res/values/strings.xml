@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DaggerAndKoin</string>
+    <string name="color">Цвет</string>
+    <string name="logo">Логотип</string>
+    <string name="dagger">Dagger</string>
+    <string name="koin">Koin</string>
+</resources>
